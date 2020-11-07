@@ -1,0 +1,1 @@
+export { default as cusDialog } from './Dialog.vue'
